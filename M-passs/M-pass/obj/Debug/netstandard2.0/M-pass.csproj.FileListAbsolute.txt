@@ -1,0 +1,17 @@
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/bin/Debug/netstandard2.0/M-pass.deps.json
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/bin/Debug/netstandard2.0/M-pass.dll
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/bin/Debug/netstandard2.0/ref/M-pass.dll
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/bin/Debug/netstandard2.0/M-pass.pdb
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/M-pass.csproj.AssemblyReference.cache
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/M-pass.AssemblyInfoInputs.cache
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/M-pass.AssemblyInfo.cs
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/M-pass.csproj.CoreCompileInputs.cache
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/M-pass.dll
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/ref/M-pass.dll
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/M-pass.pdb
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/QRpage.xaml.g.cs
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/SecondAuthPage.xaml.g.cs
+/Users/dinrazar/Projects/M-pass/M-pass/M-pass/obj/Debug/netstandard2.0/HomePage.xaml.g.cs

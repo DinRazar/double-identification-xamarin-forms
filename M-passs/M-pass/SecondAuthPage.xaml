@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Mpass.SecondAuthPage"
+    BackgroundColor="White">
+    <ContentPage.Content>
+        <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            <Button IsVisible="true"
+                    Text="Check the device"
+                    Clicked="fotma_load"
+                    VerticalOptions="Center"
+                    TextColor="red"
+                     BackgroundColor="Transparent"
+                    BorderWidth="1.5"
+                    CornerRadius="50"
+                    BorderColor="red"
+                    ></Button>
+            <Button x:Name="idinfo" IsVisible="false" Text="ID" Clicked="infoclick"></Button>
+            <Button IsVisible="true"
+                    Text="Identification"
+                    Clicked="Identification"
+                    VerticalOptions="Center"
+                    TextColor="red"
+                     BackgroundColor="Transparent"
+                    BorderWidth="1.5"
+                    CornerRadius="50"
+                    BorderColor="red"
+                    ></Button>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
+
