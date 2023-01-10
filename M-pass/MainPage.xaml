@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="M_pass.MainPage"
+             BackgroundColor="White">
+
+    <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+
+        <Image Source="Logo1.jpeg" WidthRequest="180" HeightRequest="180" Opacity="10"></Image>
+
+       <Entry x:Name="txtUsername" Placeholder="Username" TextColor="red" PlaceholderColor="Gray"></Entry>
+        <Entry x:Name="txtPassword" Placeholder="Password" IsPassword="True" TextColor="Red" PlaceholderColor="Gray"></Entry>
+
+        <Button
+            VerticalOptions="Center"
+            Text="login"
+            TextColor="red"
+            BackgroundColor="Transparent"
+            BorderWidth="1.5"
+            CornerRadius="50"
+            BorderColor="red"
+            Clicked="Button_Clicked"
+            ></Button>
+        <Label>
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Don't have an account? Write on sup@yandex.ru" TextColor="red"/>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        
+    </StackLayout>
+
+</ContentPage>
+

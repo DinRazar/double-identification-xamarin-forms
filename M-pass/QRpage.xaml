@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:y="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
+    xmlns:zxcm="clr-namespace:ZXing.Common;assembly=zxing.portable"
+    mc:Ignorable = "d"
+    y:Class="Mpass.QRpage"
+    BackgroundColor="White">
+    <zxing:ZXingBarcodeImageView
+            IsVisible="True"
+            y:Name="QRcodeView"
+            BarcodeFormat="QR_CODE"
+            HeightRequest="300"
+            WidthRequest="300"
+            BarcodeValue="https://vk.com/din_razar">
+        <zxing:ZXingBarcodeImageView.BarcodeOptions>
+            <zxcm:EncodingOptions Width="300" Height="300" />
+        
+        </zxing:ZXingBarcodeImageView.BarcodeOptions>
+    </zxing:ZXingBarcodeImageView>
+            
+</ContentPage>
+
